@@ -52,12 +52,13 @@ Install the dependencies by running the following command:
 npm install
 ```
 Make sure the .env file is set up with the correct variables (DB_USER, DB_PASSWORD, DB_NAME, and DB_HOST) and is located in the root of our project directory. The .env file is not committed to version control, so you'll need to create a new one.
-
+```
 DB_USER=
 DB_HOST=
 DB_NAME=
 DB_PASSWORD=
 DB_PORT=
+```
 Now, when we run our application in development mode, Sequelize will use the credentials provided in our environment variables to connect to our database.
 
 ## Usage
