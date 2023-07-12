@@ -39,7 +39,7 @@ Build a Recipe Management System using Node.js, Express.js, and Sequelize. Imple
 * Test your application using an API testing tool like Postman  to ensure that all CRUD operations and data validations are working correctly.
 
 ## Postman
-Link to Postman Collection: 
+Link to Postman Collection: https://www.postman.com/mdegrezia/workspace/recipe-management-system/collection/28381226-f856ce51-253c-419b-b935-662d1b951757?action=share&creator=28381226
 
 ## Screenshots
 
