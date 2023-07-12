@@ -3,6 +3,8 @@
 ## Table of contents  
 * [Objective](#Objective)
 * [Task Description](#Task-description)
+* [Installation](#Installation)
+* [Usage](#Usage)
 * [Postman](#Postman)
 * [Screenshots](#Screenshots)
 
@@ -37,6 +39,36 @@ Build a Recipe Management System using Node.js, Express.js, and Sequelize. Imple
   * instructions: Required, maximum length of 5000 characters.
 * Handle errors and provide appropriate error messages for invalid requests or database errors.
 * Test your application using an API testing tool like Postman  to ensure that all CRUD operations and data validations are working correctly.
+
+## Installation
+
+Clone the repository to your local machine
+
+Open a terminal and navigate to the project directory
+
+Install the dependencies by running the following command:
+
+```
+npm install
+```
+
+## Usage
+
+To start the application, run the following command in your terminal:
+
+```
+npm start
+```
+
+This will start the server on port 4000 by default. You can access the API using any REST client, such as a ReactJS app, Postman or cURL.
+
+The following endpoints are available:
+
+- GET /recipes - Retrieve a list of all recipes.
+- GET /recipes/:id - Retrieve a specific recipe by ID.
+- POST /recipes - Add a new recipe.
+- PATCH /recipes/:id - Update a specific recipe by ID. 
+- DELETE /recipes/:id - Delete a specific recipe by ID.
 
 ## Postman
 Link to Postman Collection: https://www.postman.com/mdegrezia/workspace/recipe-management-system/collection/28381226-f856ce51-253c-419b-b935-662d1b951757?action=share&creator=28381226
