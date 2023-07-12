@@ -104,6 +104,21 @@ The above image shows the PATCH request to update a recipe by ID in the database
 
 The above image shows the DELETE request to delete a recipe by ID from the database.
 
+<img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/be4c3f32-5d45-4cce-96c1-9f03bcf64b7c" width=60% height=60%>
+
+The above image shows the error message displayed when trying to input a title with less than 3 characters.
+
+<img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/c6b86072-732e-4836-835d-5fe9a34883e5" width=60% height=60%>
+
+The above image shows the error message displayed when trying to input text for the description field that exceeds the maximum character length of 500.
+
+<img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/af8231f1-8e09-42b0-8994-fcab9ad55c05" width=60% height=60%>
+
+The above image shows the error message displayed when trying to input text for the ingredients field that exceeds the maximum character length of 1000.
+
+<img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/39dd2cdc-2b93-4551-af1d-61897f2c6542" width=60% height=60%>
+
+The above image shows the error message displayed when trying to input text for the instructions field that exceeds the maximum character length of 5000.
 
 
 
