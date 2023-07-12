@@ -7,7 +7,8 @@
 * [Usage](#Usage)
 * [Postman](#Postman)
 * [Screenshots](#Screenshots)
-
+* [Server-side Data Validation](#Server-side-data-validation)
+  
 ## Objective
 
 Build a Recipe Management System using Node.js, Express.js, and Sequelize. Implement the CRUD functionality and server-side data validation using Sequelize.
@@ -103,6 +104,8 @@ The above image shows the PATCH request to update a recipe by ID in the database
 <img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/c8bdb80a-68d4-446d-af07-e431f81bdb9f" width=60% height=60%>
 
 The above image shows the DELETE request to delete a recipe by ID from the database.
+
+## Server-side Data Validation
 
 <img src="https://github.com/madisondegrezia/Assignment9/assets/89614960/be4c3f32-5d45-4cce-96c1-9f03bcf64b7c" width=60% height=60%>
 
